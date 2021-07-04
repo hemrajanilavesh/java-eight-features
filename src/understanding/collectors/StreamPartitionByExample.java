@@ -1,4 +1,4 @@
-package understanding.streams;
+package understanding.collectors;
 
 import understanding.streams.model.Product;
 
