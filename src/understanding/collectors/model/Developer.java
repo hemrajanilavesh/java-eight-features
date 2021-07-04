@@ -1,4 +1,4 @@
-package understanding.streams.model;
+package understanding.collectors.model;
 
 import java.math.BigDecimal;
 

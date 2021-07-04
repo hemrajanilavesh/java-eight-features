@@ -1,6 +1,6 @@
 package understanding.collectors;
 
-import understanding.streams.model.Product;
+import understanding.collectors.model.Product;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,7 +1,7 @@
 package understanding.collectors;
 
-import understanding.streams.model.Developer;
-import understanding.streams.model.Product;
+import understanding.collectors.model.Developer;
+import understanding.collectors.model.Product;
 
 import java.math.BigDecimal;
 import java.util.*;
