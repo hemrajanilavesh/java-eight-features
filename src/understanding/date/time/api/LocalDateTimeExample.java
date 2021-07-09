@@ -18,12 +18,11 @@ public class LocalDateTimeExample {
 		
 		// local date time using zone
 		LocalDateTime using_time_zone = LocalDateTime.now(ZoneId.of("America/Chicago"));
-		System.out.println("DateTime using time zone->" + using_time_zone);
+		System.out.println("DateTime using time zone America/Chicago ->" + using_time_zone);
 		
-		// creating specific date time
+		// creating date by providing specific year, month, day, hour, minute, second
 		LocalDateTime specificDate = LocalDateTime.of(2018, 12, 25, 17, 50, 1);
 		System.out.println("DateTime using specific values->" + specificDate);
-		
 	}
 
 }
