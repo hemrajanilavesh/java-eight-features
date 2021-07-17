@@ -29,3 +29,6 @@
   - [LocalTime](https://github.com/hemrajanilavesh/java-eight-features/blob/main/src/understanding/date/time/api/LocalTimeExample.java)
   - [Parsing And Formatting](https://github.com/hemrajanilavesh/java-eight-features/blob/main/src/understanding/date/time/api/DateParsingAndFormatting.java)
   - [Date API Utilities](https://github.com/hemrajanilavesh/java-eight-features/blob/main/src/understanding/date/time/api/DateApiUtilities.java)
+
+## Default Methods
+  - [Diamond Problem](https://github.com/hemrajanilavesh/java-eight-features/blob/main/src/understanding/diamond/problem/DiamondProblemClass.java)
